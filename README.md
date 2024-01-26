@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Yuktazunjarrao
-- 👀 I’m interested in ...clean ,collect and analyze a dataset
+- 👋 Hi, I’m @YuktaZunjarrao
+- 👀 I’m interested in ...Cleaning ,Collecting and Analyzing a Dataset
 - 🌱 I’m currently learning ...Data Science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
